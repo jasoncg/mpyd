@@ -8,7 +8,7 @@ Web server commands:
 
     /                             Display current playlist
     /status/currentsong           Display current song
-    /control/play?ID              Play the specified song (ID is the index into t$
+    /control/play?ID              Play the specified song (ID is the index into the current playlist)
     /control/pause                Toggle pause
     /control/next                 Go to next song
     /control/previous             Go to previous song
