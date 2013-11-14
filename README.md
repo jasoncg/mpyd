@@ -17,8 +17,8 @@ Web server commands:
 Running
 
     usage: mpyd.py [-h] [--mpdhost MPDHOST] [--mpdport MPDPORT]
-                   [--httpdhost HTTPDHOST] [--httpdport HTTPDPORT] [--user USER]
-                   [--pass PASSWORD]
+                   [--httpdhost HTTPDHOST] [--httpdport HTTPDPORT]
+                   [--user USER] [--pass PASSWORD]
 
     Simple web-based MPD controller
 
